@@ -1,6 +1,8 @@
 # Hi 👋 I'm Dereck Quock 🍻
 
-![me and my wife and dog](https://dereckquock.com/static/059e9c3541a5a82ac9481ee6ba5198c1/d00b9/us.webp)
+<p align="center">
+  <img src="https://dereckquock.com/static/059e9c3541a5a82ac9481ee6ba5198c1/d00b9/us.webp" width="667" />
+</p>
 
 - I'm a software engineer from the Bay Area 🌉
 - I love my wife 💁 and my dog 🐶
