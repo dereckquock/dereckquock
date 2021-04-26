@@ -12,7 +12,8 @@
 
 ## 👨‍💻
 
-- 💰 I work at PayPal as a software engineer on [the Checkout team](https://developer.paypal.com/docs/checkout/)
+- 💊 Now I work at Alto Pharmacy
+- 💰 I used to at PayPal
 - ✝ I help my church build [apps for the Kingdom](https://github.com/echo-labs-team/)
 
 ## 📝📫
