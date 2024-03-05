@@ -12,10 +12,11 @@
 
 ## 👨‍💻
 
-- 💊 Now I work at Alto Pharmacy
+- 🔥 Now I work at [Salt + Light](https://www.saltandlight.community/) and we're building intentional play for your groups and communities
+- 💊 I also used to work at Alto Pharmacy
 - 💰 I used to at PayPal
 - ✝ I help my church build [apps for the Kingdom](https://github.com/echo-labs-team/)
 
-## 📝📫
+## 📝
 
-Feel free to hit me up 👉 [📬](mailto:djquock@gmail.com) [🐦](https://twitter.com/dereckquock)
+Feel free to hit me up 👉 [📬](mailto:djquock@gmail.com)
