@@ -1,7 +1,7 @@
 # Hi 👋 I'm Dereck Quock 🍻
 
 <p align="center">
-  <img src="https://dereckquock.com/static/059e9c3541a5a82ac9481ee6ba5198c1/d00b9/us.webp" width="667" />
+  <img src="https://github.com/dereckquock/dereckquock/assets/1015884/ec252728-abce-4a48-9861-f10a654a37a0" width="568" />
 </p>
 
 - I'm a software engineer from the Bay Area 🌉
