@@ -8,7 +8,6 @@
 - I love my wife 💁 and my dog 🐶
 - I love a delicious beer 🍺 or a whiskey neat 🥃
 - I love golf ⛳ and music 🥁 (I can play the drums)
-- Get to know more about me at [my website ℹ️](https://dereckquock.com/about/)
 
 ## 👨‍💻
 
